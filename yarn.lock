@@ -36,12 +36,11 @@
   dependencies:
     "@babel/types" "7.0.0-beta.44"
 
-"@babel/helper-module-imports@^7.0.0-beta.32":
-  version "7.0.0-beta.47"
-  resolved "https://registry.yarnpkg.com/@babel/helper-module-imports/-/helper-module-imports-7.0.0-beta.47.tgz#5af072029ffcfbece6ffbaf5d9984c75580f3f04"
-  integrity sha512-Rk43Ty+a6npu9znK22IqFlseStRGWxEHi2cjmLbbi63VGiseofdUtIJI65F9MTCuMTXAX7VbY/ghef1Jp5qpvw==
+"@babel/helper-module-imports@^7.0.0-beta.49":
+  version "7.0.0-beta.51"
+  resolved "https://registry.yarnpkg.com/@babel/helper-module-imports/-/helper-module-imports-7.0.0-beta.51.tgz#ce00428045fbb7d5ebc0ea7bf835789f15366ab2"
   dependencies:
-    "@babel/types" "7.0.0-beta.47"
+    "@babel/types" "7.0.0-beta.51"
     lodash "^4.17.5"
 
 "@babel/helper-split-export-declaration@7.0.0-beta.44":
@@ -95,10 +94,9 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-"@babel/types@7.0.0-beta.47":
-  version "7.0.0-beta.47"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.47.tgz#e6fcc1a691459002c2671d558a586706dddaeef8"
-  integrity sha512-MOP5pOosg7JETrVGg8OQyzmUmbyoSopT5j2HlblHsto89mPz3cmxzn1IA4UNUmnWKgeticSwfhS+Gdy25IIlBQ==
+"@babel/types@7.0.0-beta.51":
+  version "7.0.0-beta.51"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.51.tgz#d802b7b543b5836c778aa691797abf00f3d97ea9"
   dependencies:
     esutils "^2.0.2"
     lodash "^4.17.5"
@@ -1343,12 +1341,11 @@ babel-plugin-transform-strict-mode@^6.24.1:
     babel-runtime "^6.22.0"
     babel-types "^6.24.1"
 
-babel-plugin-universal-import@^1.4.0:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/babel-plugin-universal-import/-/babel-plugin-universal-import-1.5.3.tgz#dc70bcf592a4afe9f7ba7d79017540da42e56bad"
-  integrity sha512-jRlF9oLVvp9qGp2Lunw1ZeYUvNvEefIqtdoAE/A5ts+hG4w73AxA/Riok4lwwcoNq26R8Xlk8BXaV38TRkpRXQ==
+babel-plugin-universal-import@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-universal-import/-/babel-plugin-universal-import-2.0.2.tgz#04f5d8cdca3c35759a0354754062a24d54dff357"
   dependencies:
-    "@babel/helper-module-imports" "^7.0.0-beta.32"
+    "@babel/helper-module-imports" "^7.0.0-beta.49"
 
 babel-polyfill@^6.26.0:
   version "6.26.0"
@@ -8088,7 +8085,7 @@ react-test-renderer@^16.0.0-0:
     prop-types "^15.6.0"
     react-is "^16.3.2"
 
-react-universal-component@^2.8.1:
+react-universal-component@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/react-universal-component/-/react-universal-component-2.9.0.tgz#75e8d418e6611e43cdbabe5a6c5dab8870c12e30"
   integrity sha512-od0Tjq/ksVA7ztSjJWRdjhiOyVqaG3rdf2gsK5x9U1F5Ny9+rLuZuFR2Y9uV12CinSalwmp/7Xs1GkjCA0fmfw==
