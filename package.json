@@ -53,7 +53,7 @@
     "commander": "^2.14.1",
     "cors": "^2.8.4",
     "cross-spawn": "^5.1.0",
-    "css-loader": "^0.28.7",
+    "css-loader": "^1.0.0",
     "download-git-repo": "^1.0.2",
     "eslint-config-react-tools": "^1.2.3",
     "extract-css-chunks-webpack-plugin": "^2.0.18",
